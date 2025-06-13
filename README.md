@@ -1,3 +1,1 @@
-~)^�+-zo�
-## Updated at:
-2025-06-13T23:35:24.989+05:30
+An orbit is a precisely defined, gravitationally governed trajectory that one celestial body traces around another, typically of greater mass. This path, whether circular or elliptical, arises from the delicate interplay between an object’s inertia and the gravitational pull exerted by the central body. For instance, the Earth’s orbital revolution around the Sun is a cornerstone of astronomical mechanics, dictating not only the progression of seasons but also influencing the intricate balance of our planetary system. Orbits are fundamental to the motion of planets, moons, and artificial satellites, underpinning the methodologies of space exploration and satellite deployment. The study of orbital dynamics is essential for understanding the harmonious motions that characterize our universe, reflecting the profound elegance and precision inherent in celestial mechanics.
